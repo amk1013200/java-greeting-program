@@ -8,5 +8,6 @@ public class Greeting {
         String name = scanner.nextLine();
 
         System.out.println("Hello, " + name + "!");
+                System.out.println("Welcome to Java programming.");
     }
 }
